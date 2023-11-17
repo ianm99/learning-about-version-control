@@ -2,4 +2,4 @@
 
 Author: Ian MacCarthy
 
-solving merge conflicts is sooooo hard!
+solving merge conflicts takes concious effort, but I can do it!
